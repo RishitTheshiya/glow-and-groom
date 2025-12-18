@@ -1,18 +1,24 @@
-# React + Vite
+# ✨ Glow & Groom - Luxury Salon Booking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Glow & Groom ek premium React-based web application hai jo users ko luxury hair aur makeup services book karne ki suvidha deta hai. Ise modern UI aur high-performance ke liye design kiya gaya hai.
 
-Currently, two official plugins are available:
+## 🚀 Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Premium UI/UX**: Luxury theme ke saath smooth animations aur transitions.
+- **User Authentication**: Signup aur Login functionality (Local Storage ka istemal karke).
+- **Service Categories**: Barber aur Makeup treatments ki badi range.
+- **Artist Rating System**: User har booking ke baad artist ko 1-5 star rating de sakta hai.
+- **Dark Mode Support**: System settings ke mutabiq automatic ya manual theme toggle.
+- **Booking History**: Purani bookings dekhne aur unhe manage (Delete) karne ka option.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- **Frontend**: React.js (Vite)
+- **Styling**: Tailwind CSS
+- **State Management**: React Hooks (useState, useEffect)
 
-Note: This will impact Vite dev & build performances.
+## 📦 Local Installation
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Repository Clone karein:**
+   ```bash
+   git clone [https://github.com/AapkaUsername/glow-and-groom.git](https://github.com/AapkaUsername/glow-and-groom.git)
